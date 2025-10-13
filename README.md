@@ -1,5 +1,7 @@
 # Instrucciones
 
+Instalamos git en windows si todavia no lo tenemos. https://git-scm.com/downloads
+
 Instala nuestro gestor de python, [uv](https://github.com/astral-sh/uv). Para ello ejecuta
 
 ```
